@@ -8,11 +8,9 @@
       "name": "Angry Birds Star Wars II",
       "bundleIdentifier": "com.maksim.absw2",
       "version": "1.9.24",
-      "downloadURL": "ССЫЛКА_ИЗ_RELEASES_КОТОРУЮ_ТЫ_УЖЕ_СДЕЛАЛ",
-      
-      "iconURL": "https://maksim2010risj-lang.github.io/mimiIPA-repo/absw2_icon.png",  <-- ЗАМЕНИ ЗДЕСЬ
-      
-      "localizedDescription": "Версия с новой иконкой!"
+      "downloadURL": "ЗДЕСЬ_ТВОЯ_ССЫЛКА_ИЗ_RELEASES",
+      "iconURL": "https://maksim2010risj-lang.github.io/mimiIPA-repo/absw2_icon.png",
+      "localizedDescription": "Теперь с крутой иконкой!"
     }
   ]
 }
