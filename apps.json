@@ -1,5 +1,5 @@
 {
-  "name": "mimIPA-repo",
+  "name": "mimiIPA-repo",
   "identifier": "com.maksim2010.repo",
   "sourceURL": "https://maksim2010risj-lang.github.io/mimIPA-repo/apps.json",
   "icon": "https://maksim2010risj-lang.github.io/mimIPA-repo/icon.png",
@@ -8,9 +8,9 @@
       "name": "Angry Birds Star Wars II",
       "bundleIdentifier": "com.maksim.absw2",
       "version": "1.9.24",
-      "downloadURL": "ВСТАВЬ_ЗДЕСЬ_ССЫЛКУ_ИЗ_RELEASES",
+      "downloadURL": "https://github.com/maksim2010risj-lang/mimIPA-repo/releases/download/1.0/Angry.Birds.Star.Wars.II.1.9.24.64Bit.ipa",
       "iconURL": "https://maksim2010risj-lang.github.io/mimIPA-repo/icon.png",
-      "localizedDescription": "Теперь работает без ноутбука 24/7!"
+      "localizedDescription": "Работает без ноута!"
     }
   ]
 }
