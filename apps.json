@@ -1,0 +1,16 @@
+{
+  "name": "mimiIPA-repo",
+  "identifier": "com.maksim.eternal",
+  "sourceURL": "https://maksim2010risj-lang.github.io/my-repo/apps.json",
+  "icon": "https://maksim2010risj-lang.github.io/my-repo/icon.png",
+  "apps": [
+    {
+      "name": "Angry Birds Star Wars II",
+      "bundleIdentifier": "com.maksim.absw2",
+      "version": "1.9.24",
+      "downloadURL": "ПОКА_ПУСТО",
+      "iconURL": "https://maksim2010risj-lang.github.io/my-repo/icon.png",
+      "localizedDescription": "Работает без ноута!"
+    }
+  ]
+}
